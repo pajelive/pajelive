@@ -18,7 +18,7 @@ Desenvolvedor Full Stack com experiência prática em construção de aplicaçõ
 - Automação com Python, VBScript e Groovy
 - Sustentação e monitoramento de aplicações em produção
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 **Backend:** Python/Flask, Node.js, APIs REST, SQL Server, PostgreSQL  
 **Frontend:** React, Next.js, JavaScript, HTML, CSS, Bootstrap, Tailwind  
